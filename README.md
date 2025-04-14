@@ -12,3 +12,12 @@ Creating a dashboard based off bike sales from 2021 and 2022 using Power Bi
 - Seasonal Revenue
 - Rider Demographics
 - Recommendation on raising prices next year
+
+## Dashboard using Power Bi:
+- <a href=https://github.com/HaiderrX/Bike-Data-Dashboard/blob/main/Bike_Data_Dashboard.pbix>Dashboard</a>
+
+## SQL Code:
+- <a href=https://github.com/HaiderrX/Bike-Data-Dashboard/blob/main/Bike_data.sql>SQL Code</a>
+
+## PDF of Recommendation:
+- <a href=https://github.com/HaiderrX/Bike-Data-Dashboard/blob/main/Bike_Data_Analysis.pdf>Written Report</a>
